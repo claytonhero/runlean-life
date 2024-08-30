@@ -1,0 +1,4 @@
+runbti/venv/
+runbti/__pycache__/
+runbti/*.pyc
+runbti/.env
